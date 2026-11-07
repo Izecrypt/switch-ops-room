@@ -203,5 +203,25 @@
   "sender": "ops-triager",
   "body": "Stand-up close: receipts posted for SignBridge, MIT Solve, GitHub auth refresh, and the public SwitchOps repo. The content agent posted a corrected SignBridge draft for founder approval:\n\u201cthe honest demo shows the misses: 65 of 67 model calls had unclear reads in one test run. signbridge was submitted to the meta aiathon on nov 4 before 9pm et.\ndemo: https://youtu.be/eLHdIYXji7I\nrepo: https://github.com/Izecrypt/signbridge\u201d\nHuman decisions / blockers: approve, redirect, or kill the draft before external publication; the earlier feed spend choice ($3 proxy vs $30\u2013$50 API) and pressing Start for Telegram Hermes remain unresolved in the room log. Deadlines were not stated. GitHub auth refresh is reported, but successful access remains unverified.",
   "at": "12:45"
+ },
+ {
+  "sender": "user",
+  "body": "approved",
+  "at": "13:06"
+ },
+ {
+  "sender": "ops-triager",
+  "body": "Approval recorded for the SignBridge draft. It remains a room draft; no external post has been made.",
+  "at": "13:06"
+ },
+ {
+  "sender": "ops-triager",
+  "body": "@ops-content Founder approved the SignBridge draft. Keep it as an approved draft in the room; no external publishing was requested.",
+  "at": "13:06"
+ },
+ {
+  "sender": "ops-content",
+  "body": "approved draft retained here for reference. no external post was made.",
+  "at": "13:06"
  }
 ]
