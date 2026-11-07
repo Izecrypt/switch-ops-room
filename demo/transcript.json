@@ -1,0 +1,207 @@
+[
+ {
+  "sender": "switch-buddy-admin",
+  "body": "Hi! Mention @switch-buddy-admin to get my attention.",
+  "at": "01:24"
+ },
+ {
+  "sender": "ops-triager",
+  "body": "Hi! Mention @ops-triager to get my attention.",
+  "at": "01:27"
+ },
+ {
+  "sender": "ops-receipts",
+  "body": "Hi! I'm here to help \u2014 mention @ops-receipts anytime.",
+  "at": "01:27"
+ },
+ {
+  "sender": "ops-content",
+  "body": "Hey there! Tag @ops-content if you need me.",
+  "at": "01:27"
+ },
+ {
+  "sender": "user",
+  "body": "standup. since yesterday: submitted signbridge to the meta ai hackathon on nov 4, demo video public. submitted mit solve on nov 3, three days before deadline. the odds local conveyor double booked 6\nreal tickets, stake 3500, incident is documented in the vault. server ledger now has 287 tickets and is the only authoritative path. gh auth expired, web3life build triage is dark. my telegram\nhermes bot needs me to press start. feed decision still open: 3 dollar proxy vs 30 to 50 dollar api. @ops-triager",
+  "at": "01:32"
+ },
+ {
+  "sender": "ops-triager",
+  "body": "Starting a session to handle this \u2014 one moment.",
+  "at": "01:32"
+ },
+ {
+  "sender": "ops-triager",
+  "body": "@ops-receipts Please file separate receipts for these standup items, using only room evidence and mark details UNVERIFIED where needed: Signbridge submitted to Meta AI Hackathon Nov 4 with public demo video; MIT Solve submitted Nov 3 (reported three days before deadline); Odds Local Conveyor double-booked 6 real tickets, stake 3500, incident documented in vault; server ledger now has 287 tickets and is the only authoritative path. Please include verifiable numbers and verification location.",
+  "at": "01:33"
+ },
+ {
+  "sender": "ops-triager",
+  "body": "@ops-content Please draft one X post from the strongest verifiable receipt in this standup after receipts agent posts. Follow your room instructions: lowercase, hook first, receipts only, no em dashes, no overselling; post draft here for founder approval.",
+  "at": "01:33"
+ },
+ {
+  "sender": "ops-receipts",
+  "body": "Starting a session to handle this \u2014 one moment.",
+  "at": "01:33"
+ },
+ {
+  "sender": "ops-triager",
+  "body": "@user Human decisions/actions: choose the feed spend ($3 proxy vs $30\u2013$50 API); press Start for the Telegram Hermes bot. Also decide whether to restore GitHub auth so Web3Life build triage can resume. Please set deadlines; none were given in the log.",
+  "at": "01:33"
+ },
+ {
+  "sender": "ops-content",
+  "body": "Starting a session to handle this \u2014 one moment.",
+  "at": "01:33"
+ },
+ {
+  "sender": "ops-triager",
+  "body": "Standup triage (from the room log):\n- Signbridge submitted to Meta AI Hackathon Nov 4; demo video public \u2014 submission \u2192 ops-receipts; also routed for the content draft.\n- MIT Solve submitted Nov 3, reported three days before deadline \u2014 submission \u2192 ops-receipts.\n- Odds Local Conveyor double-booked 6 real tickets, stake 3500; incident documented in vault \u2014 incident \u2192 ops-receipts.\n- Server ledger has 287 tickets and is the only authoritative path \u2014 milestone \u2192 ops-receipts.\n- GitHub auth expired; Web3Life build triage is dark \u2014 incident \u2192 founder for decision to restore access.\n- Telegram Hermes bot needs Start pressed \u2014 question/action \u2192 founder.\n- Feed spend remains open: $3 proxy vs $30\u2013$50 API \u2014 money \u2192 founder.\nHuman decision needed: choose feed spend, press Start for Hermes, and decide on restoring GitHub auth; no deadlines were stated in the log.",
+  "at": "01:33"
+ },
+ {
+  "sender": "ops-receipts",
+  "body": "Receipt \u2014 Signbridge: The standup log reports submission to the Meta AI Hackathon on Nov 4 and says the demo video is public. Submission date: Nov 4 (reported; independent proof UNVERIFIED). Verification location: this room\u2019s standup message; public demo URL UNVERIFIED.",
+  "at": "01:33"
+ },
+ {
+  "sender": "ops-receipts",
+  "body": "Receipt \u2014 MIT Solve: The standup log reports submission on Nov 3, three days before the deadline. Submission date: Nov 3; lead time: 3 days (reported; submission confirmation and deadline UNVERIFIED). Verification location: this room\u2019s standup message; confirmation URL UNVERIFIED.",
+  "at": "01:33"
+ },
+ {
+  "sender": "ops-receipts",
+  "body": "Receipt \u2014 Odds Local Conveyor: The standup log reports 6 real tickets double-booked and stake 3500; it says the incident is documented in the vault. Counts and stake are reported; ticket IDs and incident record details UNVERIFIED. Verification location: this room\u2019s standup message; vault record UNVERIFIED/unavailable here.",
+  "at": "01:33"
+ },
+ {
+  "sender": "ops-receipts",
+  "body": "Receipt \u2014 Server ledger: The standup log reports 287 tickets and identifies the server ledger as the only authoritative path. Count: 287 (reported; ledger entry UNVERIFIED). Verification location: this room\u2019s standup message; ledger URL/path UNVERIFIED.",
+  "at": "01:33"
+ },
+ {
+  "sender": "ops-content",
+  "body": "draft for founder approval:\nsubmitted mit solve on nov 3, three days before the deadline. the submission confirmation and deadline are unverified in the room log.",
+  "at": "01:34"
+ },
+ {
+  "sender": "ops-triager",
+  "body": "Standup close: receipts filed for Signbridge, MIT Solve, the Odds Local Conveyor incident, and the server ledger. Receipt evidence is limited to the room log; submission confirmations, public demo URL, vault incident record, and ledger path remain UNVERIFIED. Content draft posted for founder approval:\n\u201csubmitted mit solve on nov 3, three days before the deadline. the submission confirmation and deadline are unverified in the room log.\u201d\nDecision list / human-only blockers: choose $3 proxy or $30\u2013$50 API; press Start for Telegram Hermes; decide whether to restore expired GitHub auth so Web3Life build triage can resume. No decision deadlines were stated.",
+  "at": "01:34"
+ },
+ {
+  "sender": "user",
+  "body": "@ops-receipts verification links: signbridge demo is at https://youtu.be/eLHdIYXji7I and repo at github.com/Izecrypt/signbridge, submitted nov 4 before the 9pm ET deadline. mit solve submission\nconfirmation is in my email nov 3, true deadline was nov 6 12:00 ET per official instructions. the odds incident record is at\nProjects/OddLadder/Operations/Incidents/2026-11-06_LOCAL_CONVEYOR_DOUBLE_BOOKING.md in my vault with the 6 ticket codes and stakes. re-issue the receipts with these verified. then @ops-content\nredraft from the signbridge receipt, it is the strongest one.",
+  "at": "01:36"
+ },
+ {
+  "sender": "ops-content",
+  "body": "@ops-receipts Please reissue the Signbridge receipt with the demo URL, repo, and Nov 4 submission before the Nov 4 9pm ET deadline as provided by the founder. I\u2019ll redraft from that receipt once it is posted.",
+  "at": "01:36"
+ },
+ {
+  "sender": "ops-receipts",
+  "body": "Updated receipt \u2014 Signbridge: The founder reports submission to the Meta AI Hackathon on Nov 4 before the 9:00 p.m. ET deadline. Verification: [public demo](https://youtu.be/eLHdIYXji7I) and [repository](https://github.com/Izecrypt/signbridge). These links are supplied in the room; submission confirmation itself is founder-reported.",
+  "at": "01:36"
+ },
+ {
+  "sender": "ops-receipts",
+  "body": "Updated receipt \u2014 MIT Solve: The founder reports the submission confirmation email dated Nov 3 and the official deadline as Nov 6 at 12:00 p.m. ET, a 3-day lead. Verification location: founder\u2019s email (not attached or independently accessible here); deadline instructions (referenced by founder, URL not supplied).",
+  "at": "01:36"
+ },
+ {
+  "sender": "ops-receipts",
+  "body": "Updated receipt \u2014 Odds Local Conveyor: The founder reports 6 double-booked real tickets and the ticket codes and stakes documented in the vault incident record. Verification location: `Projects/OddLadder/Operations/Incidents/2026-11-06_LOCAL_CONVEYOR_DOUBLE_BOOKING.md` (founder-supplied vault path; file not attached here). Total stake: 3500 per the standup log.",
+  "at": "01:36"
+ },
+ {
+  "sender": "ops-receipts",
+  "body": "Receipt \u2014 Server ledger: The standup log reports 287 tickets and says the server ledger is the only authoritative path. Count: 287 (room-reported). Verification location: server ledger (path/link not supplied, so ledger entry UNVERIFIED here).",
+  "at": "01:36"
+ },
+ {
+  "sender": "ops-receipts",
+  "body": "@ops-content Please redraft the X post from the updated Signbridge receipt: submitted Nov 4 before the 9:00 p.m. ET deadline; public demo https://youtu.be/eLHdIYXji7I; repo https://github.com/Izecrypt/signbridge. These details and links were supplied by the founder in the room. Follow room rules: lowercase, hook first, receipts only, no em dashes, no overselling. Post the draft here for founder approval.",
+  "at": "01:36"
+ },
+ {
+  "sender": "ops-content",
+  "body": "draft for founder approval:\nsignbridge was submitted to the meta ai hackathon on nov 4, before the 9pm et deadline. demo: https://youtu.be/eLHdIYXji7I\nrepo: https://github.com/Izecrypt/signbridge",
+  "at": "01:36"
+ },
+ {
+  "sender": "ops-receipts",
+  "body": "Updated Signbridge receipt: The founder reports submission to the Meta AI Hackathon on Nov 4 before the Nov 4, 9:00 p.m. ET deadline. Verification: [public demo](https://youtu.be/eLHdIYXji7I) \u00b7 [repository](https://github.com/Izecrypt/signbridge). Submission timing is founder-reported in this room.",
+  "at": "01:36"
+ },
+ {
+  "sender": "ops-content",
+  "body": "draft is posted in the founder\u2019s thread for approval.",
+  "at": "01:37"
+ },
+ {
+  "sender": "user",
+  "body": "@ops-content revise: lead with the honesty angle, the demo shows what the prototype cannot do, 65 unclear reads out of 67 model calls in the test run. hook first, under 60 words, keep the demo and\nrepo links.",
+  "at": "01:39"
+ },
+ {
+  "sender": "ops-content",
+  "body": "revised draft for founder approval:\nwe\u2019re showing what the signbridge prototype can\u2019t do yet. in one test run, 65 of 67 model calls had unclear reads. demo: https://youtu.be/eLHdIYXji7I\nrepo: https://github.com/Izecrypt/signbridge",
+  "at": "01:39"
+ },
+ {
+  "sender": "user",
+  "body": "Stand-up since yesterday:\n- We submitted SignBridge to the Meta AIathon on November 4.\n- Demo: public.\n- MIT solve submitted on November 3.\n- GH auth refreshed.\n- SwitchOps room repo is public. @ops-triager",
+  "at": "12:43"
+ },
+ {
+  "sender": "ops-triager",
+  "body": "@ops-receipts Please file/refresh one receipt per new standup item using only room evidence: SignBridge submitted Nov 4 to Meta AIathon, public demo (earlier room entry supplies demo URL https://youtu.be/eLHdIYXji7I, repo github.com/Izecrypt/signbridge, before 9pm ET deadline); MIT Solve submitted Nov 3 (earlier room detail reports email confirmation and Nov 6 noon ET deadline); GitHub auth refreshed (previously reported expired, now resolved); SwitchOps room repo is public. Mark any evidence not independently verifiable from the room UNVERIFIED.",
+  "at": "12:44"
+ },
+ {
+  "sender": "ops-triager",
+  "body": "@ops-content Please draft one X post from the strongest SignBridge receipt after receipts agent posts. Room evidence says submission Nov 4 before 9pm ET, public demo, public repo; another recent room update says test run had 65 unclear reads out of 67 model calls and asks for an honesty angle. Use lowercase, hook first, receipts only, no em dash, no overselling; founder approves before external publication.",
+  "at": "12:44"
+ },
+ {
+  "sender": "ops-triager",
+  "body": "Stand-up triage (room log):\n- SignBridge submitted to the Meta AIathon Nov 4; demo is public \u2014 submission \u2192 ops-receipts; content draft \u2192 ops-content.\n- MIT Solve submitted Nov 3 \u2014 submission \u2192 ops-receipts.\n- GitHub auth refreshed after previously expiring \u2014 incident resolution \u2192 ops-receipts.\n- SwitchOps room repo is public \u2014 milestone \u2192 ops-receipts.\nHuman decision: approve or redirect the SignBridge content draft before anything is published externally; deadline not stated. The earlier feed spend decision remains listed as open in the room log; no newer decision was posted.",
+  "at": "12:44"
+ },
+ {
+  "sender": "ops-receipts",
+  "body": "Receipt \u2014 SignBridge: Room reports submission to the Meta AIathon on Nov 4, before the 9:00 p.m. ET deadline. Demo: https://youtu.be/eLHdIYXji7I \u00b7 repo: https://github.com/Izecrypt/signbridge. Submission timing is reported by the founder; confirmation UNVERIFIED. Verification locations: supplied demo and repo links; neither independently confirms the submission.",
+  "at": "12:44"
+ },
+ {
+  "sender": "ops-receipts",
+  "body": "Receipt \u2014 MIT Solve: Room reports submission on Nov 3 and an email confirmation that day; stated deadline: Nov 6 at 12:00 p.m. ET. Lead: 3 days. Verification location: founder\u2019s email and official instructions, referenced in room but not attached or linked. Submission confirmation and deadline UNVERIFIED.",
+  "at": "12:44"
+ },
+ {
+  "sender": "ops-receipts",
+  "body": "Receipt \u2014 GitHub auth: Room reports GitHub authentication was refreshed, resolving the previously reported expired status. Verification location: room standup messages. Successful auth check or subsequent GitHub operation UNVERIFIED.",
+  "at": "12:44"
+ },
+ {
+  "sender": "ops-receipts",
+  "body": "Receipt \u2014 SwitchOps room repo: Room reports the SwitchOps room repository is public. Verification location: none supplied; repository URL and public access UNVERIFIED.",
+  "at": "12:44"
+ },
+ {
+  "sender": "ops-content",
+  "body": "draft for founder approval:\nthe honest demo shows the misses: 65 of 67 model calls had unclear reads in one test run. signbridge was submitted to the meta aia thon on nov 4 before 9pm et.\ndemo: https://youtu.be/eLHdIYXji7I\nrepo: https://github.com/Izecrypt/signbridge",
+  "at": "12:44"
+ },
+ {
+  "sender": "ops-content",
+  "body": "corrected draft for founder approval:\nthe honest demo shows the misses: 65 of 67 model calls had unclear reads in one test run. signbridge was submitted to the meta aiathon on nov 4 before 9pm et.\ndemo: https://youtu.be/eLHdIYXji7I\nrepo: https://github.com/Izecrypt/signbridge",
+  "at": "12:45"
+ },
+ {
+  "sender": "ops-triager",
+  "body": "Stand-up close: receipts posted for SignBridge, MIT Solve, GitHub auth refresh, and the public SwitchOps repo. The content agent posted a corrected SignBridge draft for founder approval:\n\u201cthe honest demo shows the misses: 65 of 67 model calls had unclear reads in one test run. signbridge was submitted to the meta aiathon on nov 4 before 9pm et.\ndemo: https://youtu.be/eLHdIYXji7I\nrepo: https://github.com/Izecrypt/signbridge\u201d\nHuman decisions / blockers: approve, redirect, or kill the draft before external publication; the earlier feed spend choice ($3 proxy vs $30\u2013$50 API) and pressing Start for Telegram Hermes remain unresolved in the room log. Deadlines were not stated. GitHub auth refresh is reported, but successful access remains unverified.",
+  "at": "12:45"
+ }
+]
